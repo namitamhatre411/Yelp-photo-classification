@@ -1,0 +1,68 @@
+#VGG classifier - F1 score
+
+F1 score for each class
+0.246658566221
+F1 score for each class
+0.730971491835
+F1 score for each class
+0.733858267717
+F1 score for each class
+0.486444314414
+F1 score for each class
+0.564832793959
+F1 score for each class
+0.763460066343
+F1 score for each class
+0.903733200597
+F1 score for each class
+0.476884536552
+F1 score for each class
+0.692283950617
+
+Mean F1 score is
+0.686912156997
+
+#Inception V3 classifier - F1 score
+
+F1 score for each class
+0.297049847406
+F1 score for each class
+0.727802037846
+F1 score for each class
+0.744872362402
+F1 score for each class
+0.495571886188
+F1 score for each class
+0.588628762542
+F1 score for each class
+0.770086035738
+F1 score for each class
+0.89233933162
+F1 score for each class
+0.488262910798
+F1 score for each class
+0.719317300233
+
+Mean F1 score is
+0.695484307254
+
+
+Images with label 0
+936.0
+Images with label 1
+3019.0
+Images with label 2
+3101.0
+Images with label 3
+3039.0
+Images with label 4
+1952.0
+Images with label 5
+3371.0
+Images with label 6
+4807.0
+Images with label 7
+1597.0
+Images with label 8
+3000.0
+
